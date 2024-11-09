@@ -9,11 +9,11 @@ Our repository aims to provide a foundation and tools for further research in cr
 **This project is curated and maintained by [JangHyeon Lee](https://janghyeon-lee.github.io/) and [Shang-Ling (Kate) Hsu](https://ktxlh.github.io/).**
 
 ## Early Work
-+ [(*KDD 2016*) Transfer Knowledge between Cities](http://urban-computing.com/pdf/Transfer_Knowledge_between_cities_Zheng.pdf)
++ (*KDD 2016*) Transfer Knowledge between Cities ([paper](http://urban-computing.com/pdf/Transfer_Knowledge_between_cities_Zheng.pdf))
 
 ## Transfer Learning
-+ [(*IJCAI 2019*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction](https://arxiv.org/abs/1802.00386)
-+ [(*IMWUT 2019*) Learning from Hometown and Current City: Cross-city POI Recommendation via Interest Drift and Transfer Learning](https://fi.ee.tsinghua.edu.cn/public/publications/1ebc2722-92c0-11eb-96bc-0242ac120003.pdf), [Code](https://github.com/AugustusYu/Cross-city-MF)
++ (*IJCAI 2019*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction ([paper](https://arxiv.org/abs/1802.00386))
++ (*IMWUT 2019*) Learning from Hometown and Current City: Cross-city POI Recommendation via Interest Drift and Transfer Learning ([paper](https://fi.ee.tsinghua.edu.cn/public/publications/1ebc2722-92c0-11eb-96bc-0242ac120003.pdf), [code](https://github.com/AugustusYu/Cross-city-MF))
 + 
 
 ## [Human Mobility (HuMob) Prediction Challenge 2024](https://wp.nyu.edu/humobchallenge2024/)
