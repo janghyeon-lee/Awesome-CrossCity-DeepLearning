@@ -13,4 +13,5 @@ This repo provides the most comprehensive and latest information about **Cross-C
 -
 
 ## Star History
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2VyN0lOMTJWNmJVbzZjYlZueDM1cExiUnVTRTlpNjFCcUhVYQ==#janghyeon-lee/Awesome-CrossCity-Trajectory-Modeling&Date" frameBorder="0"></iframe>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=janghyeon-lee/Awesome-CrossCity-Trajectory-Modeling&type=Date)](https://star-history.com/#janghyeon-lee/Awesome-CrossCity-Trajectory-Modeling&Date)
