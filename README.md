@@ -13,7 +13,7 @@ Our repository aims to provide a foundation and tools for further research in cr
 
 ## Transfer Learning
 + [(*IJCAI 2019*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction](https://arxiv.org/abs/1802.00386)
-+ [(*IMWUT 2019*)Learning from Hometown and Current City: Cross-city POI Recommendation via Interest Drift and Transfer Learning](https://fi.ee.tsinghua.edu.cn/public/publications/1ebc2722-92c0-11eb-96bc-0242ac120003.pdf), [Code](https://github.com/AugustusYu/Cross-city-MF)
++ [(*IMWUT 2019*) Learning from Hometown and Current City: Cross-city POI Recommendation via Interest Drift and Transfer Learning](https://fi.ee.tsinghua.edu.cn/public/publications/1ebc2722-92c0-11eb-96bc-0242ac120003.pdf), [Code](https://github.com/AugustusYu/Cross-city-MF)
 + 
 
 ## [Human Mobility (HuMob) Prediction Challenge 2024](https://wp.nyu.edu/humobchallenge2024/)
