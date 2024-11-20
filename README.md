@@ -1,4 +1,4 @@
-# Awesome-CrossCity-Trajectory-Modeling
+# Awesome-CrossCity-DeepLearning
 
 This repository provides the latest and most comprehensive information on **Cross-City Trajectory Modeling**.
 
